@@ -20,4 +20,4 @@ ax.axis([0, 1100, 0, 1100000])
 # ax.ticklabel_format(style='plain')
 
 plt.savefig('./savedplots/squaresred.png', bbox_inches='tight')
-# plt.show()
+plt.show()
